@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C2185B"
+    android:orientation="vertical"
+    tools:context="com.example.android.intentwithextrasdemo.DisplayScoreActivity">
+
+    <TextView
+        android:id="@+id/labelTextView"
+        style="@style/TextViewTheme"
+        android:text="@string/final_number"
+        android:textAlignment="center" />
+
+
+    <TextView
+        android:id="@+id/numberTextView"
+        style="@style/TextViewTheme"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/startOverButton"
+        style="@style/ButtonTheme"
+        android:text="@string/start_over" />
+</LinearLayout>

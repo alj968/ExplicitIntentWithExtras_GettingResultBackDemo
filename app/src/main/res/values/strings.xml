@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentWithExtrasDemo</string>
+    <string name="final_number">Workout Streak:</string>
+    <string name="start_over">Start Over</string>
+    <string name="num_of_days">Number of Days You Worked Out:</string>
+    <string name="increase">Did it today!</string>
+    <string name="submit">Submit</string>
+    <string name="restarted">RESTARTED!</string>
+</resources>
